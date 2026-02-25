@@ -186,7 +186,7 @@ def init_session():
 init_session()
 
 # ---------- HEADER ----------
-st.title("📦 Proof-of-Delivery Vision + Location Validation (Client Demo)")
+st.title("📦 Proof-of-Delivery Vision + Location Validation")
 st.caption("Video → Capture → Validate (recipient + location + geo) → GenBI-style KPIs. Offline, demo-safe logic.")
 
 # ---------- INPUTS ----------
