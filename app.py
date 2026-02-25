@@ -22,7 +22,7 @@ st.set_page_config(page_title="Delivery Vision Validation (Client Demo)", layout
 # ✅ Repo-friendly default (recommended):
 # DEFAULT_VIDEO = Path("assets/demo_delivery_clip.mp4")
 # ✅ Your current mounted path (works in your local/container):
-DEFAULT_VIDEO = Path("/mnt/data/6034753-uhd_4096_2160_24fps.mp4")
+DEFAULT_VIDEO = Path("assets/demo_delivery_clip.mp4")
 
 # ---------- GEO DEMO CONFIG ----------
 # Hard-coded demo “truth” (expected GPS for the claimed address)
