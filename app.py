@@ -17,7 +17,7 @@ import math
 # =========================================================
 
 # ---------- CONFIG ----------
-st.set_page_config(page_title="Delivery Vision Validation (Client Demo)", layout="wide")
+st.set_page_config(page_title="Delivery Vision Validation", layout="wide")
 
 # ✅ Repo-friendly default (recommended):
 # DEFAULT_VIDEO = Path("assets/demo_delivery_clip.mp4")
